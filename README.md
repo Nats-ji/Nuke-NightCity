@@ -1,4 +1,4 @@
-# Nuke-NightCity
+# Nuke NightCity
 Press one key, and Night City goes kaboom.
 
 # Install

@@ -1,5 +1,5 @@
 # Nuke NightCity
-Press one key, and Night City goes kaboom.
+Press one key, whole Night City goes kaboom.
 
 # Install
 1. Install the latest version of Cyber Engine Tweaks

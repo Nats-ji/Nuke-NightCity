@@ -14,10 +14,6 @@
 -- You should have received a copy of the GNU General Public License
 -- along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-registerHotkey("boooooooooooom", "KABOOOOOOOOOOOOOOOOOM", function()
-  KABOOOOOOOOOOOOOOOOOM()
-end)
-
 function KABOOOOOOOOOOOOOOOOOM()
   local TheAlmightyLegendaryVKabooooooom = Game.GetPlayer()
   local dontLookAtMeYouGonnaGoBOOOOOOOOOOM = Game.GetTargetingSystem()
@@ -34,3 +30,5 @@ function KABOOOOOOOOOOOOOOOOOM()
     end
   end
 end
+
+registerHotkey("boooooooooooom", "KABOOOOOOOOOOOOOOOOOM", KABOOOOOOOOOOOOOOOOOM)

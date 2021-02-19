@@ -22,11 +22,14 @@ function KABOOOOOOOOOOOOOOOOOM()
   local YouWhaaaaaaaaaaaat, thisSoooooooSicccck = dontLookAtMeYouGonnaGoBOOOOOOOOOOM:GetTargetParts(TheAlmightyLegendaryVKabooooooom, goooooogleSaysHi, thisSoooooooSicccck)
   for _, v in ipairs(thisSoooooooSicccck) do
     local hahahahaaIgotYouBISSSSSSSSSSSH = v:GetComponent(v):GetEntity()
-    if hahahahaaIgotYouBISSSSSSSSSSSH:IsPuppet() and not hahahahaaIgotYouBISSSSSSSSSSSH:IsDead() then
+    if hahahahaaIgotYouBISSSSSSSSSSSH:IsNPC() and not hahahahaaIgotYouBISSSSSSSSSSSH:IsDead() then
       hahahahaaIgotYouBISSSSSSSSSSSH:Kill(TheAlmightyLegendaryVKabooooooom, false, false)
     elseif hahahahaaIgotYouBISSSSSSSSSSSH:IsVehicle() then
       hahahahaaIgotYouBISSSSSSSSSSSH:GetVehicleComponent():ExplodeVehicle(TheAlmightyLegendaryVKabooooooom)
       hahahahaaIgotYouBISSSSSSSSSSSH:GetVehicleComponent():DestroyVehicle()
+    elseif hahahahaaIgotYouBISSSSSSSSSSSH:IsTurret() and not hahahahaaIgotYouBISSSSSSSSSSSH:GetDevicePS():IsBroken() then
+      hahahahaaIgotYouBISSSSSSSSSSSH:TurnOffDevice()
+      hahahahaaIgotYouBISSSSSSSSSSSH:DestroySensor()
     end
   end
 end

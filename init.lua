@@ -34,4 +34,4 @@ function KABOOOOOOOOOOOOOOOOOM()
   end
 end
 
-registerHotkey("boooooooooooom", "KABOOOOOOOOOOOOOOOOOM", KABOOOOOOOOOOOOOOOOOM)
+registerHotkey("boooooooooooom", "Explode Everything", KABOOOOOOOOOOOOOOOOOM)

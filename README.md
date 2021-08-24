@@ -6,7 +6,7 @@ Press one key, whole Night City goes kaboom.
 # Install
 1. Install the latest version of Cyber Engine Tweaks
 2. Download and extract the files
-3. Copy "nuke_nightcity" to "Cyberpunk 2077\bin\x64\plugins\cyber_engine_tweaks\mods\"
+3. Copy `bin` folder to the root directory of the game
 
 ![imgur](https://i.imgur.com/NB8L2Q1.gif)
 
@@ -16,7 +16,7 @@ Press one key, whole Night City goes kaboom.
 - Note: This is for messing around, remember to backup your save game.
 
 # Uninstall
-- Delete "nuke_nightcity"
+- Delete `nuke_nightcity` folder under `Cyberpunk 2077\bin\x64\plugins\cyber_engine_tweaks\mods\`
 
 # Acknowledgement
 - yamashi who created Cyber Engine Tweaks

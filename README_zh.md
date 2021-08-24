@@ -8,8 +8,8 @@
 
 # 安装与卸载
 1. 确保你已经安装了 CyberEngineTweaks 最新版
-2. 解压缩之后把 `nuke_nightcity` 文件夹放到 `\Cyberpunk 2077\bin\x64\plugins\cyber_engine_tweaks\mods\` 里
-- 卸载的话直接删除 `nuke_nightcity` 文件夹
+2. 解压缩之后把 `bin` 文件夹放到`游戏根目录`里
+- 卸载的话直接删除 `Cyberpunk 2077\bin\x64\plugins\cyber_engine_tweaks\mods\` 里的 `nuke_nightcity` 文件夹
 
 # Github
 [https://github.com/Nats-ji/Nuke-NightCity](https://github.com/Nats-ji/Nuke-NightCity)

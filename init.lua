@@ -19,7 +19,7 @@ function KABOOOOOOOOOOOOOOOOOM()
   local dontLookAtMeYouGonnaGoBOOOOOOOOOOM = Game.GetTargetingSystem()
   local goooooogleSaysHi = Game["TSQ_ALL;"]()
   goooooogleSaysHi.maxDistance = Game["SNameplateRangesData::GetMaxDisplayRange;"]()
-  local YouWhaaaaaaaaaaaat, thisSoooooooSicccck = dontLookAtMeYouGonnaGoBOOOOOOOOOOM:GetTargetParts(TheAlmightyLegendaryVKabooooooom, goooooogleSaysHi, thisSoooooooSicccck)
+  local YouWhaaaaaaaaaaaat, thisSoooooooSicccck = dontLookAtMeYouGonnaGoBOOOOOOOOOOM:GetTargetParts(TheAlmightyLegendaryVKabooooooom, goooooogleSaysHi)
   for _, v in ipairs(thisSoooooooSicccck) do
     local hahahahaaIgotYouBISSSSSSSSSSSH = v:GetComponent(v):GetEntity()
     if hahahahaaIgotYouBISSSSSSSSSSSH:IsNPC() and not hahahahaaIgotYouBISSSSSSSSSSSH:IsDead() then
